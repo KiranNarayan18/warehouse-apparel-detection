@@ -1,0 +1,5 @@
+Flask
+Ultralytics
+Flask-Cors
+ensure
+python-box
